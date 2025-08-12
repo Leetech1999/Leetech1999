@@ -28,9 +28,9 @@
 건강 데이터를 시각화하는 React 기반 사용자 맞춤형 인터페이스  
 🔗 [GitHub Repo](https://github.com/Leetech1999/inbody)
 
-### [SPOANY](https://leetech1999.github.io/Spoany/)  
+### [SPOANY](https://leetech1999.github.io/Spoany-ShoppingMall/)  
 운동용품 반응형 웹사이트, Swiper.js 및 Kakao Map API 사용  
-🔗 [GitHub Repo](https://github.com/Leetech1999/Spoany)
+🔗 [GitHub Repo](https://github.com/Leetech1999/Spoany-ShoppingMall)
 
 ---
 
@@ -48,11 +48,6 @@
 
 ---
 
-## 📖 블로그 & SNS
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/leetech1999)
-
----
 
 감사합니다! 🙏  
 방문해주셔서 반갑습니다 😊
