@@ -46,8 +46,9 @@
 
 ## 📈 GitHub Stats
 
-![Leetech1999's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leetech1999&show_icons=true&theme=radical)  
-![Leetech1999's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Leetech1999&theme=github)
+![Leetech1999's GitHub stats](https://github-readme-stats.vercel.app/api?username=leetech1999&show_icons=true&theme=radical)  
+![Leetech1999's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leetech1999&theme=radical)
+
 
 ---
 
