@@ -47,9 +47,8 @@
 
 ## 📫 Contact Me
 
-- 이메일: lee.jj.1999@example.com  
-- 블로그: [https://yourblog.com](https://yourblog.com)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 이메일: junjung0872@gmail.com  
+- 인스타그램 : joon_eee22
 
 ---
 
