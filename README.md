@@ -12,9 +12,16 @@
 
 ---
 
+
 ## 🛠️ Tech Stack
 
-![React](https://cdn.simpleicons.org/react/61DAFB) ![JavaScript](https://cdn.simpleicons.org/javascript/F7DF1E) ![HTML5](https://cdn.simpleicons.org/html5/E34F26) ![CSS3](https://cdn.simpleicons.org/css3/1572B6) ![Redux](https://cdn.simpleicons.org/redux/764ABC) ![TailwindCSS](https://cdn.simpleicons.org/tailwindcss/06B6D4)
+<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="30" height="30"/>  
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="30" height="30"/>  
+<img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="30" height="30"/>  
+<img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" width="30" height="30"/>  
+<img src="https://cdn.simpleicons.org/redux/764ABC" alt="Redux" width="30" height="30"/>  
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="TailwindCSS" width="30" height="30"/>
+
 
 ---
 
